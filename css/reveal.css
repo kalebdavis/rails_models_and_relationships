@@ -1336,3 +1336,10 @@ html:-moz-full-screen-ancestor {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+/*********************************************
+ * Custom CSS
+ * ******************************************/
+p {
+  text-align: left;
+}
